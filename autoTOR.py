@@ -52,12 +52,14 @@ print('''\033[1;32;40m \n
      /\        | |        |__   __|
     /  \  _   _| |_ ___      | | ___  _ __
    / /\ \| | | | __/ _ \     | |/ _ \| '__|
-  / ____ \ |_| | || (_) |    | | (_) | |
+  / ____ \ |_| | || (_) |    | | (_) | |    @Mr.H4cker
  /_/    \_\__,_|\__\___/     |_|\___/|_|
                 V 2.1
 from mrFD
 ''')
-print("\033[1;40;31m http://facebook.com/ninja.hackerz.kurdish/\n")
+print("\033[1;40;31m      *** Mr.H4cker ***/\n")
+jalan("\033[1;93m.     @Hacker is a God of Internet 
+                                              :- Mr.H4cker")
 
 os.system("service tor start")
 
